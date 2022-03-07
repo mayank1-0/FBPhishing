@@ -7,7 +7,7 @@ Also, it is made using NodeJs' express.
 Steps To Run The Aplication :-
 1. Download and install nodejs server onto your computer https://nodejs.org/en/
 2. Clone the project into your local machine (preferably in VS Code).
-3. Open the Terminal or other CLI and run npm i (after relocating to the project directory).
+3. Open the Terminal or any other CLI and run npm i (after relocating to the project directory).
 4. Run the command 'npm start'.
 5. Open an web-browser and type in the url bar 'http://localhost:3000'.
 6. Enter any credentials.
